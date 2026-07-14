@@ -94,7 +94,7 @@ I continuously improve my skills in:
 # 📫 Connect With Me
 
 - **GitHub:** https://github.com/NIkhildutt7674
-- **LinkedIn:** https://www.linkedin.com/in/yourprofile
+- **LinkedIn:** https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikhil-dutt-anuchuri-2b2205393/
 
 *(Replace the links above with your actual GitHub and LinkedIn profiles.)*
 
