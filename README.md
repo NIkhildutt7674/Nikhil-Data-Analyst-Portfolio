@@ -93,7 +93,7 @@ I continuously improve my skills in:
 
 # 📫 Connect With Me
 
-- **GitHub:** https://github.com/yourusername
+- **GitHub:** https://github.com/NIkhildutt7674
 - **LinkedIn:** https://www.linkedin.com/in/yourprofile
 
 *(Replace the links above with your actual GitHub and LinkedIn profiles.)*
